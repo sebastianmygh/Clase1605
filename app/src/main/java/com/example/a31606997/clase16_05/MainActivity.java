@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //Cmentario para ver el cambio
+        //Coentario para ver el cambio
         setContentView(R.layout.activity_main);
     }
 }
